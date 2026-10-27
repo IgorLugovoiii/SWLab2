@@ -1,0 +1,8 @@
+google-genai
+pydantic
+python-dotenv
+numpy
+scikit-learn
+networkx
+matplotlib
+python-louvain

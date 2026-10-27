@@ -1,0 +1,72 @@
+[
+  {
+    "id": "doc01",
+    "title": "Charles Babbage",
+    "url": "https://en.wikipedia.org/wiki/Charles_Babbage",
+    "license": "CC BY-SA 4.0",
+    "words": 7317
+  },
+  {
+    "id": "doc02",
+    "title": "Difference engine",
+    "url": "https://en.wikipedia.org/wiki/Difference_engine",
+    "license": "CC BY-SA 4.0",
+    "words": 2943
+  },
+  {
+    "id": "doc03",
+    "title": "Analytical Engine",
+    "url": "https://en.wikipedia.org/wiki/Analytical_Engine",
+    "license": "CC BY-SA 4.0",
+    "words": 2330
+  },
+  {
+    "id": "doc04",
+    "title": "Ada Lovelace",
+    "url": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+    "license": "CC BY-SA 4.0",
+    "words": 6114
+  },
+  {
+    "id": "doc05",
+    "title": "Alan Turing",
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "license": "CC BY-SA 4.0",
+    "words": 9209
+  },
+  {
+    "id": "doc06",
+    "title": "Enigma machine",
+    "url": "https://en.wikipedia.org/wiki/Enigma_machine",
+    "license": "CC BY-SA 4.0",
+    "words": 9232
+  },
+  {
+    "id": "doc07",
+    "title": "Bletchley Park",
+    "url": "https://en.wikipedia.org/wiki/Bletchley_Park",
+    "license": "CC BY-SA 4.0",
+    "words": 6452
+  },
+  {
+    "id": "doc08",
+    "title": "Konrad Zuse",
+    "url": "https://en.wikipedia.org/wiki/Konrad_Zuse",
+    "license": "CC BY-SA 4.0",
+    "words": 2123
+  },
+  {
+    "id": "doc09",
+    "title": "ENIAC",
+    "url": "https://en.wikipedia.org/wiki/ENIAC",
+    "license": "CC BY-SA 4.0",
+    "words": 4483
+  },
+  {
+    "id": "doc10",
+    "title": "John von Neumann",
+    "url": "https://en.wikipedia.org/wiki/John_von_Neumann",
+    "license": "CC BY-SA 4.0",
+    "words": 15039
+  }
+]

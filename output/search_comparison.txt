@@ -1,0 +1,69 @@
+﻿ЗАПИТ: machine that could be programmed with punched cards
+  keyword (TF-IDF):
+    doc03_c01 (Analytical Engine) схожість=0.193
+    doc03_c00 (Analytical Engine) схожість=0.142
+    doc01_c08 (Charles Babbage) схожість=0.131
+    doc02_c01 (Difference engine) схожість=0.071
+    doc03_c02 (Analytical Engine) схожість=0.068
+  векторний (Gemini embeddings):
+    doc01_c08 (Charles Babbage) схожість=0.718
+    doc03_c00 (Analytical Engine) схожість=0.714
+    doc03_c02 (Analytical Engine) схожість=0.690
+    doc04_c05 (Ada Lovelace) схожість=0.688
+    doc09_c01 (ENIAC) схожість=0.688
+
+ЗАПИТ: who broke the German cipher during the Second World War
+  keyword (TF-IDF):
+    doc06_c00 (Enigma machine) схожість=0.179
+    doc06_c01 (Enigma machine) схожість=0.147
+    doc06_c12 (Enigma machine) схожість=0.098
+    doc07_c02 (Bletchley Park) схожість=0.098
+    doc05_c13 (Alan Turing) схожість=0.096
+  векторний (Gemini embeddings):
+    doc06_c00 (Enigma machine) схожість=0.743
+    doc07_c02 (Bletchley Park) схожість=0.733
+    doc06_c01 (Enigma machine) схожість=0.733
+    doc07_c04 (Bletchley Park) схожість=0.727
+    doc05_c05 (Alan Turing) схожість=0.722
+
+ЗАПИТ: 1837
+  keyword (TF-IDF):
+    doc03_c00 (Analytical Engine) схожість=0.071
+    doc04_c04 (Ada Lovelace) схожість=0.064
+    doc01_c08 (Charles Babbage) схожість=0.063
+    doc01_c10 (Charles Babbage) схожість=0.037
+    doc04_c02 (Ada Lovelace) схожість=0.034
+  векторний (Gemini embeddings):
+    doc01_c09 (Charles Babbage) схожість=0.627
+    doc01_c10 (Charles Babbage) схожість=0.623
+    doc01_c06 (Charles Babbage) схожість=0.620
+    doc01_c04 (Charles Babbage) схожість=0.619
+    doc01_c07 (Charles Babbage) схожість=0.618
+
+ЗАПИТ: Z3
+  keyword (TF-IDF):
+    doc08_c01 (Konrad Zuse) схожість=0.227
+    doc08_c00 (Konrad Zuse) схожість=0.156
+    doc09_c04 (ENIAC) схожість=0.139
+    doc03_c00 (Analytical Engine) схожість=0.040
+    doc08_c02 (Konrad Zuse) схожість=0.030
+  векторний (Gemini embeddings):
+    doc08_c01 (Konrad Zuse) схожість=0.717
+    doc08_c00 (Konrad Zuse) схожість=0.687
+    doc06_c09 (Enigma machine) схожість=0.667
+    doc08_c02 (Konrad Zuse) схожість=0.665
+    doc06_c11 (Enigma machine) схожість=0.649
+
+ЗАПИТ: the first computer algorithm
+  keyword (TF-IDF):
+    doc10_c12 (John von Neumann) схожість=0.167
+    doc04_c04 (Ada Lovelace) схожість=0.123
+    doc05_c07 (Alan Turing) схожість=0.096
+    doc09_c00 (ENIAC) схожість=0.079
+    doc03_c00 (Analytical Engine) схожість=0.079
+  векторний (Gemini embeddings):
+    doc04_c04 (Ada Lovelace) схожість=0.745
+    doc03_c00 (Analytical Engine) схожість=0.714
+    doc01_c08 (Charles Babbage) схожість=0.697
+    doc08_c01 (Konrad Zuse) схожість=0.692
+    doc08_c00 (Konrad Zuse) схожість=0.689

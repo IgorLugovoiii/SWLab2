@@ -1,0 +1,68 @@
+source,target,relations
+Babbage,digital programmable computer,designed
+Babbage,difference engine,designed
+Babbage,analytical engine,designed;designed
+Babbage,first computer printers,designed
+Babbage,John Herschel,collaborated_with
+Babbage,George Peacock,collaborated_with
+Babbage,Analytical Society,worked_at
+Babbage,Royal Society,worked_at
+Babbage,Joseph Clement,collaborated_with
+Babbage,Difference Engine No. 2,designed
+difference engine,analytical engine,influenced
+Jacquard loom,analytical engine,influenced;influenced
+Science Museum,incomplete mechanisms,built_at
+Benjamin Babbage,William Praed,collaborated_with
+Benjamin Babbage,Praed's & Co.,worked_at
+Charles Babbage,difference engine,designed;designed
+Charles Babbage,Difference Engine 0,designed
+Charles Babbage,analytical engine,designed;designed
+J. H. Müller,Hessian army,worked_at
+J. H. Müller,adding machine,designed
+Joseph Clement,Babbage,collaborated_with
+Babbage's difference engine,Per Georg Scheutz,influenced
+South Kensington,Difference Engine No. 1,built_at
+Dudley Observatory,machine,built_at
+Konrad Zuse,Z3,designed
+Lovelace,Charles Babbage,collaborated_with
+Lovelace,Mary Somerville,collaborated_with
+Luigi Menabrea,Lovelace,influenced
+Alan Mathison Turing,Government Code and Cypher School,worked_at
+Alan Mathison Turing,Hut 8,worked_at
+Alan Mathison Turing,Turing machine,designed
+Bletchley Park,Government Code and Cypher School,built_at
+Bletchley Park,Hut 8,built_at
+Bletchley Park,Government Code and Cypher School (GC&CS),built_at
+Bletchley Park,SIS,built_at
+Bletchley Park,MI6,built_at
+Bletchley Park,Section D,built_at
+Turing,National Physical Laboratory,worked_at
+Turing,Automatic Computing Engine,designed
+Turing,Max Newman's Computing Machine Laboratory,worked_at
+University of Manchester,Max Newman's Computing Machine Laboratory,built_at
+Julius Mathison Turing,Indian Civil Service (ICS),worked_at
+Edward Waller Stoney,Madras Railways,worked_at
+Polish bomba method,Alan Mathison Turing,influenced
+Arthur Scherbius,Enigma machine,designed
+Arthur Scherbius,Scherbius & Ritter,worked_at
+Marian Rejewski,Polish Cipher Bureau,worked_at
+Marian Rejewski,Jerzy Różycki,collaborated_with
+Marian Rejewski,Henryk Zygalski,collaborated_with
+John Tiltman,GC&CS,worked_at
+Dilwyn Knox,GC&CS,worked_at
+Alan Turing,GC&CS,worked_at
+Gordon Welchman,GC&CS,worked_at
+Bill Tutte,GC&CS,worked_at
+Admiral Sir Hugh Sinclair,Secret Intelligence Service (SIS or MI6),worked_at
+Laurence Grand,SIS,worked_at
+Colin Meek (D/X1),Imperial Chemical Industries,worked_at
+Zuse,Ford Motor Company,worked_at
+Zuse,Henschel aircraft factory,worked_at
+Zuse,S2,designed
+Zuse,Z3,designed
+Zuse,Z2,designed
+Zuse,S1,designed
+Zuse,Z4,designed
+Zuse,Zuse Apparatebau,worked_at
+Zuse,IBM,influenced
+Z4,ERMETH,influenced
